@@ -4,6 +4,7 @@
   "description": "backend test api-abisoft",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js --dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Byron Rosero",
